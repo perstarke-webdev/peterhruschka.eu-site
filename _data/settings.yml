@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Peter Hruschka
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,17 +8,21 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Agilität'
+      url: '/agility/'
+    - title: 'Requirements Engineering'
+      url: '/requirements-engineering'
+    - title: 'Software-Architekturen'
+      url: '/software-architectures'
+    - title: 'Partner'
+      url: '/partners'
+    - title: 'Privat'
+      url: '/private'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Dr. Peter Hruschka
 
 hero_settings:
   overlay_opacity: 0.8
@@ -50,7 +54,7 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
+  github_url: 'https://github.com/hruschka'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
@@ -58,7 +62,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://de.linkedin.com/in/peterhruschka'
 
 color_settings:
   background_color: '#ffffff'
