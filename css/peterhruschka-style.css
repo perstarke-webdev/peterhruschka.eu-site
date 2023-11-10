@@ -1,0 +1,29 @@
+/* Colors */
+
+.accent-color {
+    color: #3498db;
+}
+
+
+/* Structure */
+
+.content {
+    margin: 5vh 8vw 100px 8vw;
+}
+
+
+/* Margins & Paddings */
+
+.margin-bottom {
+    margin-bottom: 16px;
+}
+
+
+/* Links and Buttons */
+
+a.more {
+    color: #6C7A89;
+}
+
+
+/* Icons */
