@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Software-Architekturen'
       url: '/software-architectures'
     - title: 'Agilität'
-      url: '/agility/'
+      url: '/agility'
     - title: 'Partner'
       url: '/partners'
     - title: 'Privat'
