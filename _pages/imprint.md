@@ -24,7 +24,7 @@ Dr. Peter Hruschka
 >Diese Website verwendet KEINE Cookies, daher haben Sie auch keinen _cookie-consent_ gesehen oder bestätigen müssen. Details siehe unten.
 
 ### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter Dr. Peter Hruschka, Langenbruchweg 71, D-52080 Aachen, Deutschland, <a href="xmxaxixlxtxo:ixnxfxox@xaxrxcx4x2x.xdxe" onmouseover="this.href=this.href.replace(/x/g,'');">Email (gegen Spam gesichert)</a>, Tel.: +49 172 2411656 auf dieser Website (im folgenden “Angebot”) auf.<br />
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter Dr. Peter Hruschka, Langenbruchweg 71, D-52080 Aachen, Deutschland, <a href="xmxaxixlxtxo:hxrxuxsxcxhxkxax@xbx-xaxgxixlxex.xdxex" onmouseover="this.href=this.href.replace(/x/g,'');">Email (gegen Spam gesichert)</a>, Tel.: +49 172 2411656 auf dieser Website (im folgenden “Angebot”) auf.<br />
 <br />
 Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />
