@@ -59,11 +59,25 @@
 				// Run page functions
 				pageFunctions();
 
+				    // Check for visibility change
+                    document.addEventListener('visibilitychange', function () {
+                        if (document.visibilityState === 'visible') {
+                            // Page is visible, trigger a reload
+                            location.reload(true); // true forces a reload from the server, bypassing the cache
+                        }
+                    });
+
 			}, transitionTime);
 
 		});
 
 	});
+
+    // Popstate event
+    window.addEventListener('popstate', function (event) {
+        // Run page functions
+        pageFunctions();
+    });
 
 
 	// On clicking a link
