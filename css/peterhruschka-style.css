@@ -44,6 +44,11 @@ a.underline {
     text-decoration: underline;
 }
 
+img.link:hover {
+    opacity: 0.8;
+    transition: 0.2s ease;
+}
+
 /* Icons */
 
 img.icon {
