@@ -59,14 +59,6 @@
 				// Run page functions
 				pageFunctions();
 
-				    // Check for visibility change
-                    document.addEventListener('visibilitychange', function () {
-                        if (document.visibilityState === 'visible') {
-                            // Page is visible, trigger a reload
-                            location.reload(true); // true forces a reload from the server, bypassing the cache
-                        }
-                    });
-
 			}, transitionTime);
 
 		});
@@ -449,3 +441,11 @@
 	
 	
 }(jQuery));
+
+
+// Check for visibility change (moved outside pageFunctions)
+document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'visible') {
+        location.reload(true);
+    }
+});
