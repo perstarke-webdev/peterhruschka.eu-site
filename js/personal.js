@@ -373,25 +373,24 @@
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Listing post click
 
-	// Click anywhere on the post to go to the link
-	$(document).on('click', '.post', function (){
+    // Click anywhere on the post to go to the link
+    $(document).on('click', '.post', function () {
+      // Check if the body has the 'disable-clicks' class
+      if (!$('body').hasClass('disable-clicks')) {
+        var targetPost = $(this).find('.post__title a').attr('href');
 
-		var targetPost = $(this).find('.post__title a').attr('href');
+        if ($('body').hasClass('ajax-loading')) {
+          // Change navTarget
+          navTarget = targetPost;
 
-		if ( $('body').hasClass('ajax-loading') ) {
-
-			// Change navTarget
-			navTarget = targetPost;
-			
-			// Switch the URL via History
-			History.pushState(null, docTitle, targetPost);
-		}
-
-		else {
-			// Use the given link
-				window.location = targetPost;
-		}
-	});
+          // Switch the URL via History
+          History.pushState(null, docTitle, targetPost);
+        } else {
+          // Use the given link
+          window.location = targetPost;
+        }
+      }
+    });
 
 
 
