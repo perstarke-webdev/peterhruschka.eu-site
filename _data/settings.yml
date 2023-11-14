@@ -25,7 +25,7 @@ footer_settings:
   footer_tagline: Dr. Peter Hruschka
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.4
 
 post_settings:
   grid_spacing: 10
