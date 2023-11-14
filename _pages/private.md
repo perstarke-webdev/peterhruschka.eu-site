@@ -2,7 +2,7 @@
 layout: page
 title: Privat
 subtitle: Ein Freund hat mir verraten, dass man als Selbständiger selbst und ständig arbeitet. Nun, da ist was dran. Aber trotzdem muss auch Zeit sein für andere Dinge...
-featured_image: /images/peter.webp
+featured_image: /images/titlebanner.webp
 ---
 
 
