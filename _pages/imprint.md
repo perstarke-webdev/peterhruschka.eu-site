@@ -54,3 +54,8 @@ Danke an Hr Rechtsanwalt Thomas Schwenke:<br>
 ## Keine Cookies
 
 Diese Website wird komplett statisch generiert und enthält keine Elemente, die User- oder Usage-Tracking Informationen erheben oder speichern.
+
+#### Erstellt von Per Starke Web Development
+  
+[Website](https://perstarke-webdev.de/)   
+[Blog](https://blog.perstarke-webdev.de/)
